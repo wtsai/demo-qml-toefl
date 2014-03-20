@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/toefl">
+        <file>qml/toefl/images/busy.png</file>
+        <file>qml/toefl/images/button_default.png</file>
+        <file>qml/toefl/images/button_pressed.png</file>
+        <file>qml/toefl/images/navigation_next_item.png</file>
+        <file>qml/toefl/images/navigation_previous_item.png</file>
+        <file>qml/toefl/images/toolbar.png</file>
+        <file>qml/toefl/TOEFL/plugins/quizlist.js</file>
+        <file>qml/toefl/TOEFL/InitalPage.qml</file>
+        <file>qml/toefl/main.qml</file>
+        <file>qml/toefl/TOEFL/plugins/BusyIndicator.qml</file>
+        <file>qml/toefl/TOEFL/plugins/TextButton.qml</file>
+        <file>qml/toefl/images/button_error.png</file>
+    </qresource>
+</RCC>
